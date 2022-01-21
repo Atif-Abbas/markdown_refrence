@@ -138,4 +138,4 @@ main()
 4. Markdown Shortcuts
 
 # Commentout
-// its just commenting out
+[//]: <> (its just commenting out)
